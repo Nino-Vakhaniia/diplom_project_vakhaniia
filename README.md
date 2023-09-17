@@ -3,6 +3,7 @@
 - Запуск всех тестов выполянется командой pytest из терминала, либо при помощи зеленого треугольника Run с конфигурацией Current File
 
 - Содержимое пакета состоит из файлов: 
+- 2 SQL запроса
 - configuration.pydata.py, 
 - sender_stand_request.py, 
 - track_number_order_tests.py, 
